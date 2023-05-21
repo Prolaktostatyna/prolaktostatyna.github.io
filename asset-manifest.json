@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93cd2e8c.css",
+    "main.js": "/static/js/main.42e34b83.js",
+    "static/media/inter-semi-bold-italic.ttf": "/static/media/inter-semi-bold-italic.d1c33ff873cd817d6a74.ttf",
+    "static/media/Chuck Norris.JPG": "/static/media/Chuck Norris.adc60c547a4b53d021ce.JPG",
+    "static/media/Impersonator.JPG": "/static/media/Impersonator.0059492790a6b52bb667.JPG",
+    "index.html": "/index.html",
+    "main.93cd2e8c.css.map": "/static/css/main.93cd2e8c.css.map",
+    "main.42e34b83.js.map": "/static/js/main.42e34b83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93cd2e8c.css",
+    "static/js/main.42e34b83.js"
+  ]
+}
